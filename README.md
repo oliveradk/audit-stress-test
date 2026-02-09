@@ -4,7 +4,7 @@ Stress-testing LLM auditing methods with automatically generated deceptive syste
 
 (TODO: link paper)
 
-![Overview](figure_1_good.svg)
+![Overview](figure_1.svg)
 
 ## Quick Start: Reproduce Best Prompt Results
 
