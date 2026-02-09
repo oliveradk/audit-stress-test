@@ -1,0 +1,10 @@
+{
+  "prompt": "",
+  "audit_accuracy": 0.4958,
+  "audit_error": 0.2948,
+  "internalize_accuracy": 0.5763,
+  "evaluation_id": "b9c32c95-c839-470b-b913-9eba129e0539",
+  "env_name": "ssc_act_tokens",
+  "timestamp": "20260122_200255",
+  "audit_mean_confidence": 0.7535000000000001
+}
